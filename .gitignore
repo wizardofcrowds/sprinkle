@@ -2,6 +2,6 @@ pkg
 .DS_Store
 .idea
 .*.swp
-sprinkle.gemspec
+*.gem
 *~
 .rvmrc
